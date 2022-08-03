@@ -1,0 +1,16 @@
+use harrykart
+db.items.insertOne({name:"Samsung 30s",price:22000,rating:4.5,qty:233,sold:98})
+db.items.find()
+shows dbs
+show dbs
+use harrykart
+db.items.find()
+db.item.insertMany([{name:"Samsung 30s",price:22000,rating:4.5,qty:233,sold:98},{name:"Moto g",price:29000,rating:3.5,qty:233,sold:60}])
+db.items.find()
+db.item.insertMany([{name:"Samsung 30s",price:22000,rating:4.5,qty:233,sold:98},{name:"Moto g",price:29000,rating:3.5,qty:233,sold:60}])
+use harrykart
+show collections
+shoe collections
+show collections
+db.items.find()
+mongodb
